@@ -1,0 +1,8 @@
+{
+  "name": "Remix JurisFamille France",
+  "description": "Assistant juridique interactif spécialisé en droit de la famille en France avec analyse de documents, photos et liens officiels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
